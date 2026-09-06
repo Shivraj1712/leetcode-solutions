@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -134,4 +135,9 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
